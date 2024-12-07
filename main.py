@@ -103,7 +103,7 @@ def main():
         elif choice == "2":
             your_ip_info()
 
-        elif choice == "99":
+        elif choice == "3":
             Write.Print("\n[!] > Exiting...", Colors.blue_to_cyan, interval = 0)
             exit()
 
