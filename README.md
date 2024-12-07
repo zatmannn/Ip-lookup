@@ -13,6 +13,7 @@ Installation(Termux)
 
 
 Installation(Windows):
+
 just download it and open setup.bat
 
 Аfter that, in cmd enter python main.py
